@@ -1,1 +1,53 @@
-# admredestele
+Estimados Estudiantes, les escribe su Prof. Ing. Carlos F. Batalla. La próxima semana iniciaremos las actividades correspondientes a Administración de Redes.
+
+Lean detenidamente la información aquí suministrada.
+
+## 1.- Contenidos y Ponderaciones 
+### Corte I (35%)
+  - Conceptos Básicos Linux.
+  - Gestion de redes en Linux
+  - SSH
+### Corte II (35%)
+  - NFS y Samba
+  - Mapeo de Red - NMAP
+  - Fundamentos de SNMP
+### Corte III (30%)
+  - Hosting http en Apache
+  - Monitoreo
+
+## 3.- Clases
+Tendremos una clase semanal de tres horas, en las que desarrollaremos los contenidos y consultas. Usaremos:
+| | |
+|- |- |
+| Clases | Google meets/ Grupo de WhatsApp [Repositorio Github de su Profesor.](https://github.com/carlosfranzbatalla/admredestele) |
+| Consultas | Grupo de WhatsApp |
+| Evaluaciones | Por definir |
+
+Es imperativo que, acuerden un día y hora para las clases.
+## 4.- Datos de los Estudiantes
+Esta es la lista oficial de cumlaude. Por favor verifiquen los datos presentados en esta tabla:
+
+| CEDULA 	|      APELLIDOS Y NOMBRES      	|             e-mail            	|    TLF.    	|
+|:------:	|:-----------------------------:	|:-----------------------------:	|:----------:	|
+|   xyz  	|  GATTI CASTILLO, SAMUEL DAVID 	|     gattisamueld@gmail.com    	| 4145029395 	|
+|   xyz  	|  GIMENEZ MATOS, CESAR DANIEL  	|     cesargk_27@hotmail.com    	| 4164727003 	|
+|   xyz  	|  GONZÁLEZ ARTEAGA, EMIRO JOSE 	|  gonzalez_arteaga@hotmail.com 	| 4145744413 	|
+|   xyz  	|  PEREZ VASQUEZ, ADRIAN ARTURO 	| adrianarturoperez15@gmail.com 	| 4145521630 	|
+|   xyz  	| TAMAYO TOVAR, RICHARD ALFONSO 	|   Richard.tamayo5@gmail.com   	| 4264599232 	|
+## 5.- Algunas consideraciones:
+
+Lamentablemente las circunstancias nos obligan a realizar las actividades de enseñanza-aprendizaje completamente online. Debido a esto:
+
+- Las consultas no son presenciales.
+- No podemos acceder al lab. que nos provee Entornos ni versiones estandard.
+- Es requerido que dispongan de un equipo para sus prácticas con la versión de Virtualbox más actualizada (en la medida de lo posible).
+
+Por favor, adoptemos este estandard: añadir el hashtag **#admredestele** en el asunto de los correos que usaremos en esta cátedra.
+
+## 6.- Bibliografía
+- Mastering Linux Network Administration, Jay LaCroix 
+- Linux Networking Cookbook, Gregory Boyce
+
+Links de descarga, a la brevedad.
+
+

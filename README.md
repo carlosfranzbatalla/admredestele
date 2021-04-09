@@ -15,7 +15,7 @@ Lean detenidamente la información aquí suministrada.
   - Hosting http en Apache
   - Monitoreo
 
-## 3.- Clases
+## 2.- Clases
 Tendremos una clase semanal de tres horas, en las que desarrollaremos los contenidos y consultas. Usaremos:
 | | |
 |- |- |
@@ -24,18 +24,19 @@ Tendremos una clase semanal de tres horas, en las que desarrollaremos los conten
 | Evaluaciones | Por definir |
 
 Es imperativo que, acuerden un día y hora para las clases.
-## 4.- Datos de los Estudiantes
+
+## 3.- Datos de los Estudiantes
 Esta es la lista oficial de cumlaude. Por favor verifiquen los datos presentados en esta tabla:
 
-| CEDULA 	|      APELLIDOS Y NOMBRES      	|             e-mail            	|    TLF.    	|
+| CÉDULA 	|      APELLIDOS Y NOMBRES      	|             e-mail            	|    TLF.    	|
 |:------:	|:-----------------------------:	|:-----------------------------:	|:----------:	|
 |   xyz  	|  GATTI CASTILLO, SAMUEL DAVID 	|     gattisamueld@gmail.com    	| 4145029395 	|
 |   xyz  	|  GIMENEZ MATOS, CESAR DANIEL  	|     cesargk_27@hotmail.com    	| 4164727003 	|
 |   xyz  	|  GONZÁLEZ ARTEAGA, EMIRO JOSE 	|  gonzalez_arteaga@hotmail.com 	| 4145744413 	|
 |   xyz  	|  PEREZ VASQUEZ, ADRIAN ARTURO 	| adrianarturoperez15@gmail.com 	| 4145521630 	|
 |   xyz  	| TAMAYO TOVAR, RICHARD ALFONSO 	|   Richard.tamayo5@gmail.com   	| 4264599232 	|
-## 5.- Algunas consideraciones:
 
+## 4.- Algunas consideraciones:
 Lamentablemente las circunstancias nos obligan a realizar las actividades de enseñanza-aprendizaje completamente online. Debido a esto:
 
 - Las consultas no son presenciales.

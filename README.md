@@ -45,7 +45,7 @@ Lamentablemente las circunstancias nos obligan a realizar las actividades de ens
 
 Por favor, adoptemos este estandard: añadir el hashtag **#admredestele** en el asunto de los correos que usaremos en esta cátedra.
 
-## 6.- Bibliografía
+## 5.- Bibliografía
 - Mastering Linux Network Administration, Jay LaCroix 
 - Linux Networking Cookbook, Gregory Boyce
 

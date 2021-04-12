@@ -31,8 +31,8 @@ Esta es la lista oficial de cumlaude. Por favor verifiquen los datos presentados
 | CÉDULA 	|      APELLIDOS Y NOMBRES      	|             e-mail            	|    TLF.    	|
 |:------:	|:-----------------------------:	|:-----------------------------:	|:----------:	|
 |   xyz  	|  GATTI CASTILLO, SAMUEL DAVID 	|     gattisamueld@gmail.com    	| 4145029395 	|
-|   xyz  	|  GIMENEZ MATOS, CESAR DANIEL  	|     cesargk_27@hotmail.com    	| 4164727003 	|
-|   xyz  	|  GONZÁLEZ ARTEAGA, EMIRO JOSE 	|  gonzalez_arteaga@hotmail.com 	| 4145744413 	|
+|   xyz  	|  GIMENEZ MATOS, CESAR DANIEL  	|     cesargimenez760@gmail.com  	| 4164727003 	|
+|   xyz  	|  GONZÁLEZ ARTEAGA, EMIRO JOSE 	|  emirogonzart@gmail.com       	| 4145744413 	|
 |   xyz  	|  PEREZ VASQUEZ, ADRIAN ARTURO 	| adrianarturoperez15@gmail.com 	| 4145521630 	|
 |   xyz  	| TAMAYO TOVAR, RICHARD ALFONSO 	|   Richard.tamayo5@gmail.com   	| 4264599232 	|
 
@@ -40,7 +40,7 @@ Esta es la lista oficial de cumlaude. Por favor verifiquen los datos presentados
 Lamentablemente las circunstancias nos obligan a realizar las actividades de enseñanza-aprendizaje completamente online. Debido a esto:
 
 - Las consultas no son presenciales.
-- No podemos acceder al lab. que nos provee Entornos ni versiones estandard.
+- No podemos acceder al lab. que nos provee Entornos y versiones estandard.
 - Es requerido que dispongan de un equipo para sus prácticas con la versión de Virtualbox más actualizada (en la medida de lo posible).
 
 Por favor, adoptemos este estandard: añadir el hashtag **#admredestele** en el asunto de los correos que usaremos en esta cátedra.

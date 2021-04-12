@@ -49,6 +49,8 @@ Por favor, adoptemos este estandard: añadir el hashtag **#admredestele** en el 
 - Mastering Linux Network Administration, Jay LaCroix 
 - Linux Networking Cookbook, Gregory Boyce
 
-Links de descarga, a la brevedad.
+Links de descarga:[aquí](http://rax.vps.co.ve/BiblioAdmredestele.zip)
+
+
 
 

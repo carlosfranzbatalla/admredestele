@@ -46,5 +46,5 @@ Lamentablemente las circunstancias nos obligan a realizar las actividades de ens
 Por favor, adoptemos este estandard: añadir el hashtag **#admredestele** en el asunto de los correos que usaremos en esta cátedra.
 
 ## 5.- Bibliografía
-- [Mastering Linux Network Administration, Jay LaCroix](http://rax.vps.co.ve/MasterLinuxAdm.pdf) (12Mg)
-- [Linux Networking Cookbook, Gregory Boyce](http://rax.vps.co.ve/Linux_Networking_Cookbook.pdf) (5Mg)
+- [Mastering Linux Network Administration, Jay LaCroix](http://rax.vps.co.ve/MasterLinuxAdm.pdf) (12Mb)
+- [Linux Networking Cookbook, Gregory Boyce](http://rax.vps.co.ve/Linux_Networking_Cookbook.pdf) (5Mb)

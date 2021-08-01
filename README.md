@@ -1,4 +1,5 @@
-Estimados Estudiantes, les escribe su Prof. Ing. Carlos F. Batalla. La próxima semana iniciaremos las actividades correspondientes a Administración de Redes.
+Estimados estudiantes, les escribe su Prof. Ing. Carlos F. Batalla. 
+La próxima semana iniciaremos las actividades correspondientes a Administración de Redes.
 
 Lean detenidamente la información aquí suministrada.
 

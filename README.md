@@ -27,15 +27,7 @@ Tendremos una clase semanal de tres horas, en las que desarrollaremos los conten
 Es imperativo que, acuerden un día y hora para las clases.
 
 ## 3.- Datos de los Estudiantes
-Esta es la lista oficial de cumlaude. Por favor verifiquen los datos presentados en esta tabla:
 
-| CÉDULA 	|      APELLIDOS Y NOMBRES      	|             e-mail            	|    TLF.    	|
-|:------:	|:-----------------------------:	|:-----------------------------:	|:----------:	|
-|   xyz  	|  GATTI CASTILLO, SAMUEL DAVID 	|     gattisamueld@gmail.com    	| 4145029395 	|
-|   xyz  	|  GIMENEZ MATOS, CESAR DANIEL  	|     cesargimenez760@gmail.com  	| 4164727003 	|
-|   xyz  	|  GONZÁLEZ ARTEAGA, EMIRO JOSE 	|  emirogonzart@gmail.com       	| 4145744413 	|
-|   xyz  	|  PEREZ VASQUEZ, ADRIAN ARTURO 	| adrianarturoperez15@gmail.com 	| 4145521630 	|
-|   xyz  	| TAMAYO TOVAR, RICHARD ALFONSO 	|   Richard.tamayo5@gmail.com   	| 4264599232 	|
 
 ## 4.- Algunas consideraciones:
 Lamentablemente las circunstancias nos obligan a realizar las actividades de enseñanza-aprendizaje completamente online. Debido a esto:

@@ -120,13 +120,7 @@ La administración de redes en un sistema Linux ha sido por mucho tiempo net-too
 
 A partir de este momento, en este curso, solo usaremos iproute2.
 
-## 3 Iproute 2
-
-La administración de redes en un sistema Linux ha sido por mucho tiempo net-tools y aun viene instalado en algunas distribuciones. Sin embargo, la falta de soporte del paquete ha dado lugar al desarrollo de iproute2, volviendose este, sistematicamente en la herramienta de gestión por defecto en Linux.
-
-A partir de este momento, en este curso, solo usaremos iproute2.
-
-## 4 Herramientas de Gestión
+## 3 Herramientas de Gestión
 
 
 | Comando iproute2                                         | Descripción                                                                                                                                                                                                         | Descripción                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
